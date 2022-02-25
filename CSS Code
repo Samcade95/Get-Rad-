@@ -1,0 +1,1129 @@
+Get Rad! CSS Code:
+
+/* Get Rad!-Intro/Get Started Screen */
+
+
+position: relative;
+width: 428px;
+height: 926px;
+
+background: #FFFFFF;
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 352px;
+height: 184px;
+left: 38px;
+top: 38px;
+
+background: #1A1C1B;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 13px;
+
+/* GetRad! */
+
+
+position: absolute;
+width: 245px;
+height: 90px;
+left: 107px;
+top: 92px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 64px;
+
+color: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 352px;
+height: 184px;
+left: 38px;
+top: 692px;
+
+background: #962727;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 13px;
+
+/* Get Started */
+
+
+position: absolute;
+width: 232px;
+height: 88px;
+left: 107px;
+top: 751px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 48px;
+
+color: #FFFFFF;
+
+
+/* Get Rad!-Profile Setup Screen */
+
+
+position: relative;
+width: 428px;
+height: 926px;
+
+background: #FFFFFF;
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 129px;
+height: 116px;
+left: 321px;
+top: -14px;
+
+background: #962727;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+
+/* Profile Setup */
+
+
+position: absolute;
+width: 73px;
+height: 49px;
+left: 359px;
+top: 21px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+/* Ellipse 2 */
+
+
+position: absolute;
+width: 100px;
+height: 80px;
+left: 153px;
+top: 159px;
+
+background: url(image.png);
+border: 1px solid #962727;
+box-sizing: border-box;
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 229px;
+height: 85px;
+left: 89px;
+top: 286px;
+
+background: #1A1C1B;
+border: 1px solid #962727;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Name: Bob */
+
+
+position: absolute;
+width: 219px;
+height: 34px;
+left: 144px;
+top: 311px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 229px;
+height: 85px;
+left: 92px;
+top: 418px;
+
+background: #1A1C1B;
+border: 1px solid #962727;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Age: 45 */
+
+
+position: absolute;
+width: 219px;
+height: 52px;
+left: 146px;
+top: 449px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 229px;
+height: 85px;
+left: 92px;
+top: 550px;
+
+background: #1A1C1B;
+border: 1px solid #962727;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Country: USA */
+
+
+position: absolute;
+width: 219px;
+height: 52px;
+left: 145px;
+top: 583px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 229px;
+height: 85px;
+left: 92px;
+top: 682px;
+
+background: #1A1C1B;
+border: 1px solid #962727;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* State: CA */
+
+
+position: absolute;
+width: 219px;
+height: 52px;
+left: 149px;
+top: 715px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 229px;
+height: 85px;
+left: 89px;
+top: 814px;
+
+background: #1A1C1B;
+border: 1px solid #962727;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* City: Vista */
+
+
+position: absolute;
+width: 219px;
+height: 52px;
+left: 149px;
+top: 841px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+/* Get Rad!-SkateShop Locator Screen */
+
+
+position: relative;
+width: 428px;
+height: 926px;
+
+background: #FFFFFF;
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 129px;
+height: 116px;
+left: 321px;
+top: -14px;
+
+background: #962727;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+
+/* SkateShop Locator */
+
+
+position: absolute;
+width: 88px;
+height: 49px;
+left: 340px;
+top: 20px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 417px;
+height: 222px;
+left: 5px;
+top: 122px;
+
+background: #1A1C1B;
+border: 1px solid #962727;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* The House SkateShop Address: 637 S Santa Fe Ave C, Vista, CA 92083 Hours: Monday: 12PM–7PM Tuesday: 11AM–7PM Wednesday: 11AM–7PM Thursday: 11AM–7PM Friday: 11AM–7PM Saturday: 11AM–7PM Sunday: 12PM–5PM Phone: (760)-724-1355 */
+
+
+position: absolute;
+width: 296px;
+height: 196px;
+left: 17px;
+top: 133px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 14px;
+
+color: #FFFFFF;
+
+
+/* Ellipse 3 */
+
+
+position: absolute;
+width: 74px;
+height: 74px;
+left: 340px;
+top: 127px;
+
+background: url(image.png);
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 417px;
+height: 222px;
+left: 5px;
+top: 362px;
+
+background: #1A1C1B;
+border: 1px solid #962727;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Skate 7 SkateShop Address: 828 N Santa Fe Ave f, Vista, CA 92083 Hours: Monday: 10AM–8PM Tuesday: 10AM–8PM Wednesday: 10AM–8PM Thursday: 10AM–8PM Friday: 10AM–8PM Saturday: 10AM–8PM Sunday: 10AM–5PM Phone: (760)-305-7897 */
+
+
+position: absolute;
+width: 292px;
+height: 196px;
+left: 21px;
+top: 375px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 14px;
+
+color: #FFFFFF;
+
+
+/* Ellipse 4 */
+
+
+position: absolute;
+width: 74px;
+height: 74px;
+left: 340px;
+top: 367px;
+
+background: url(image.png);
+
+/* Rectangle 11 */
+
+
+position: absolute;
+width: 417px;
+height: 222px;
+left: 1px;
+top: 602px;
+
+background: #1A1C1B;
+border: 1px solid #962727;
+box-sizing: border-box;
+border-radius: 13px;
+
+
+/* Epic Trends SkateShop Address: 985 Civic Center Dr #110, Vista, CA 92083 Hours: Monday: 2:45PM–6:30PM Tuesday: 2:45PM–6:30PM Wednesday: Closed Thursday: 2:45PM–6:30PM Friday: 2:45PM–6:30PM Saturday: 2:45PM–6:30PM Sunday: 2:45PM–6:30PM Phone: (760)-936-5146 */
+
+
+position: absolute;
+width: 311px;
+height: 196px;
+left: 19px;
+top: 615px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 14px;
+
+color: #FFFFFF;
+
+
+/* Ellipse 5 */
+
+
+position: absolute;
+width: 74px;
+height: 74px;
+left: 336px;
+top: 607px;
+
+background: url(image.png);
+
+/* Get Rad!-SkateShop Selection/Deals Screen */
+
+
+position: relative;
+width: 428px;
+height: 926px;
+
+background: #FFFFFF;
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 129px;
+height: 116px;
+left: 321px;
+top: -14px;
+
+background: #962727;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+
+/* SkateShop Selection/Deals */
+
+
+position: absolute;
+width: 88px;
+height: 49px;
+left: 340px;
+top: 20px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+/* Ellipse 3 */
+
+
+position: absolute;
+width: 150px;
+height: 160px;
+left: 130px;
+top: 300px;
+
+background: url(image.png);
+
+/* Rectangle 12 */
+
+
+position: absolute;
+width: 400px;
+height: 462px;
+left: 14px;
+top: 464px;
+
+background: #1A1C1B;
+border: 1px solid #962727;
+box-sizing: border-box;
+border-radius: 13px;
+
+
+/* Deals of the Day! */
+
+
+position: absolute;
+width: 340px;
+height: 110px;
+left: 44px;
+top: 490px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 48px;
+
+color: #FFFFFF;
+
+
+/* image 5 */
+
+
+position: absolute;
+width: 78px;
+height: 89px;
+left: 44px;
+top: 556px;
+
+background: url(image.png);
+border-radius: 44px;
+
+/* Independent Trucks Buy One Get One 50% Off */
+
+
+position: absolute;
+width: 248px;
+height: 89px;
+left: 136px;
+top: 579px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+/* image 6 */
+
+
+position: absolute;
+width: 95px;
+height: 89px;
+left: 35px;
+top: 659px;
+
+background: url(image.png);
+border-radius: 44px;
+
+/* Creature Skateboards 30% Off with purchase of socks */
+
+
+position: absolute;
+width: 248px;
+height: 89px;
+left: 136px;
+top: 674px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+/* image 7 */
+
+
+position: absolute;
+width: 89.96px;
+height: 89px;
+left: 37px;
+top: 763px;
+
+background: url(image.png);
+border-radius: 112.5px;
+
+/* Spitfire Wheels 25% Off with purchase of any apparel item */
+
+
+position: absolute;
+width: 248px;
+height: 89px;
+left: 136px;
+top: 777px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+/* Get Rad!-SkateShop News/Events Screen */
+
+
+position: relative;
+width: 428px;
+height: 926px;
+
+background: #FFFFFF;
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 129px;
+height: 116px;
+left: 321px;
+top: -14px;
+
+background: #962727;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+
+/* SkateShop News/Events */
+
+
+position: absolute;
+width: 88px;
+height: 49px;
+left: 340px;
+top: 20px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+/* Ellipse 3 */
+
+
+position: absolute;
+width: 150px;
+height: 160px;
+left: 139px;
+top: 130px;
+
+background: url(image.png);
+
+/* Rectangle 12 */
+
+
+position: absolute;
+width: 400px;
+height: 253px;
+left: 14px;
+top: 295px;
+
+background: #1A1C1B;
+border: 1px solid #962727;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* The House:News */
+
+
+position: absolute;
+width: 354px;
+height: 110px;
+left: 37px;
+top: 305px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 48px;
+
+color: #FFFFFF;
+
+
+/* Nike SB Dunk Raffle Starts this Sunday 2/27/2022 at 12am, don’t forget to register via email at thehouse.sbdunkraffle@gmail.com New Board Wall coming soon, we’ve received your feedback about the old board wall and are working with a contractor on expanding it stay tuned everybody Marco Gonzales turning pro for Skate Mafia, yes the rumors are true Vista’s own beloved skate rat is finally turning pro for the fine folks over at Skate Mafia, tell Wes Kremer we said hi */
+
+
+position: absolute;
+width: 325px;
+height: 178px;
+left: 52px;
+top: 364px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 14px;
+
+color: #962727;
+
+
+
+/* Rectangle 13 */
+
+
+position: absolute;
+width: 400px;
+height: 253px;
+left: 14px;
+top: 632px;
+
+background: #1A1C1B;
+border: 1px solid #962727;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* The House:Events */
+
+
+position: absolute;
+width: 380px;
+height: 110px;
+left: 37px;
+top: 644px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 48px;
+
+color: #FFFFFF;
+
+
+/* 1st Annual House Cares Canned Food Drive When: Sunday 2/27/2022 Where: Vista Skatepark 400 N Santa Fe Ave, Vista, CA 92083 Time: 12pm-5pm 2nd Annual House King of Street Contest When: Saturday 3/5/2022 Where: Vista Skatepark 400 N Santa Fe Ave, Vista, CA 92083 Time: 1pm-6pm 4th Annual House Pool Party When: Friday 2/25/2022 Where: 8-Ball’s House (Ask Joey at the shop for address and location) Time: 12pm-5pm */
+
+
+position: absolute;
+width: 325px;
+height: 178px;
+left: 59px;
+top: 703px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 14px;
+
+color: #962727;
+
+
+/* Get Rad!-Leave A Review Screen */
+
+
+position: relative;
+width: 428px;
+height: 926px;
+
+background: #FFFFFF;
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 129px;
+height: 116px;
+left: 321px;
+top: -14px;
+
+background: #962727;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+
+/* Leave a Review */
+
+
+position: absolute;
+width: 88px;
+height: 49px;
+left: 340px;
+top: 20px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 400px;
+height: 357px;
+left: 14px;
+top: 248px;
+
+background: #1A1C1B;
+border: 1px solid #962727;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Tell us here at Get Rad! about your experience today using the app?: My experience today using this app was awesome I found some great skateshops in my area What did you like about the Get Rad! app?: I liked the ease of access I had to different shops in my area and the deals at each shop What did you not like about the Get Rad! app?: I didn’t like that I couldn’t order products from the shops on the app Do you have any suggestions on how we can improve the experience of the Get Rad! app?: My suggestions would be to allow online ordering from the shops directly through the app and to include a link to their websites */
+
+
+position: absolute;
+width: 332px;
+height: 332px;
+left: 52px;
+top: 260px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+
+color: #962727;
+
+/* Rectangle 15 */
+
+
+position: absolute;
+width: 400px;
+height: 98px;
+left: 14px;
+top: 643px;
+
+background: #1A1C1B;
+border: 1px solid #962727;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Star 1 */
+
+
+position: absolute;
+width: 46px;
+height: 49px;
+left: 45px;
+top: 667px;
+
+background: #962727;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+
+/* Star 2 */
+
+
+position: absolute;
+width: 46px;
+height: 49px;
+left: 118px;
+top: 667px;
+
+background: #962727;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+
+/* Star 3 */
+
+
+position: absolute;
+width: 46px;
+height: 49px;
+left: 191px;
+top: 667px;
+
+background: #962727;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+
+/* Star 4 */
+
+
+position: absolute;
+width: 46px;
+height: 49px;
+left: 264px;
+top: 667px;
+
+background: #962727;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+
+/* Star 5 */
+
+
+position: absolute;
+width: 46px;
+height: 49px;
+left: 337px;
+top: 667px;
+
+background: #962727;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 400px;
+height: 98px;
+left: 14px;
+top: 771px;
+
+background: #1A1C1B;
+border: 1px solid #962727;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Share on Social Media */
+
+
+position: absolute;
+width: 300px;
+height: 32px;
+left: 91px;
+top: 779px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+/* image 9 */
+
+
+position: absolute;
+width: 39.29px;
+height: 40px;
+left: 45px;
+top: 820px;
+
+background: url(image.png);
+
+/* image 10 */
+
+
+position: absolute;
+width: 38.36px;
+height: 40px;
+left: 114px;
+top: 820px;
+
+background: url(image.png);
+
+/* image 14 */
+
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: url(image.png);
+
+/* image 12 */
+
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 258px;
+top: 820px;
+
+background: url(image.png);
+
+/* image 13 */
+
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 337px;
+top: 820px;
+
+background: url(image.png);
+
+/* Get Rad!-Logout Screen */
+
+
+position: relative;
+width: 428px;
+height: 926px;
+
+background: #FFFFFF;
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 129px;
+height: 116px;
+left: 321px;
+top: -14px;
+
+background: #962727;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+
+/* Logout */
+
+
+position: absolute;
+width: 88px;
+height: 49px;
+left: 340px;
+top: 20px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+/* Rectangle 15 */
+
+
+position: absolute;
+width: 400px;
+height: 322px;
+left: 14px;
+top: 250px;
+
+background: #1A1C1B;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 13px;
+
+/* Thank you for using Get Rad! stay rad and have a nice day :) -The Get Rad! Team */
+
+
+position: absolute;
+width: 294px;
+height: 223px;
+left: 56px;
+top: 296px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 400px;
+height: 138px;
+left: 14px;
+top: 694px;
+
+background: #962727;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 13px;
+
+/* Logout */
+
+
+position: absolute;
+width: 246px;
+height: 70px;
+left: 162px;
+top: 739px;
+
+font-family: Old English Text MT;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+
+
+
+
+
+
+
